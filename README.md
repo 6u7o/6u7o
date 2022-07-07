@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá,+meu+nome+é+Augusto;Seja+bem+vindo+ao+meu+perfil)](https://git.io/typing-svg)
-### E aí 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá+👋,+sou+Augusto+Pinheiro;Seja+bem+vindo(a)+ao+meu+perfil)](https://git.io/typing-svg)
 
 Faço parte da Turma [XP](https://www.xpinc.com/) da Trybe (Escola de Desenvolvimento Web)
 
