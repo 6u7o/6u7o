@@ -1,4 +1,5 @@
 ### Hi there 👋
+https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
 
 <!--
 **6u7o/6u7o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
