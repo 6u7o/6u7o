@@ -2,10 +2,11 @@
 
 Faço parte da Turma [XP](https://www.xpinc.com/) da Trybe (Escola de Desenvolvimento Web)
 
-
+<hammer_and_wrench> Stacks </hammer_and_wrench>
 ![image](https://user-images.githubusercontent.com/92962445/177813912-3e9f6830-dccf-4758-9347-491c8f3e0613.png)
 ![image](https://user-images.githubusercontent.com/92962445/177813927-f66ca618-ebb6-46fa-a842-81321ca80321.png)
 ![image](https://user-images.githubusercontent.com/92962445/177814301-2ba9c175-8f64-42be-ac26-9d46e1a165b7.png)
+![image](https://user-images.githubusercontent.com/92962445/177820382-c04360f6-d736-4d96-b9df-361c6b18f9e4.png)
 ![image](https://user-images.githubusercontent.com/92962445/177814210-5346e0aa-387b-4133-81d6-3db155f60bd7.png)
 ![image](https://user-images.githubusercontent.com/92962445/177814164-e7b635f0-43cb-43c6-bf2e-8e1955bb0e3d.png)
 ![image](https://user-images.githubusercontent.com/92962445/177816426-6ff03a35-5943-49fd-992b-ae24adc8216e.png)
@@ -25,9 +26,10 @@ Faço parte da Turma [XP](https://www.xpinc.com/) da Trybe (Escola de Desenvolvi
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=6u7o)](https://github.com/anuraghazra/github-readme-stats)
 
+Atualmente estou aprendendo TypeScript
+
 ![image](https://user-images.githubusercontent.com/92962445/177814656-3399e3f0-eea8-44e2-97d2-0fb29bea087e.png)
 ![image](https://user-images.githubusercontent.com/92962445/177813481-314b6fd0-b3c4-4ed7-9989-57fd4974c650.png)
-
 
 
 <!--
