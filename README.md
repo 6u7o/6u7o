@@ -24,8 +24,10 @@
 
 
 
-https://github-readme-stats.vercel.app/api?username={6u7o}
+
 https://github-readme-stats.vercel.app/api?username=6u7o
+
+
 ![image](https://user-images.githubusercontent.com/92962445/177814656-3399e3f0-eea8-44e2-97d2-0fb29bea087e.png)
 
 
