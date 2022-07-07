@@ -1,5 +1,6 @@
-### Hi there 👋
+### E aí 👋
 
+Faço parte da Turma [XP](https://www.xpinc.com/) da Trybe (Escola de Desenvolvimento Web)
 
 
 ![image](https://user-images.githubusercontent.com/92962445/177813912-3e9f6830-dccf-4758-9347-491c8f3e0613.png)
