@@ -27,7 +27,9 @@ Faço parte da Turma [XP](https://www.xpinc.com/) da Trybe (Escola de Desenvolvi
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=6u7o)](https://github.com/anuraghazra/github-readme-stats)
 
 Atualmente estou aprendendo TypeScript
+  
 
+### **Me encontre em:** <h2>
 ![image](https://user-images.githubusercontent.com/92962445/177814656-3399e3f0-eea8-44e2-97d2-0fb29bea087e.png)
 ![image](https://user-images.githubusercontent.com/92962445/177813481-314b6fd0-b3c4-4ed7-9989-57fd4974c650.png)
 
