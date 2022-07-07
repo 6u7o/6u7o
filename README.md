@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-![image](https://user-images.githubusercontent.com/92962445/177813481-314b6fd0-b3c4-4ed7-9989-57fd4974c650.png)
+
+
+![image](https://user-images.githubusercontent.com/92962445/177816426-6ff03a35-5943-49fd-992b-ae24adc8216e.png)
 
 ![image](https://user-images.githubusercontent.com/92962445/177813248-8b2c2516-eb10-45d2-a931-301417dcba1b.png)
 ![image](https://user-images.githubusercontent.com/92962445/177813612-9aab2af5-9dc4-49e0-a55d-f8fa6b1fb75a.png)
@@ -29,7 +31,7 @@
 
 
 ![image](https://user-images.githubusercontent.com/92962445/177814656-3399e3f0-eea8-44e2-97d2-0fb29bea087e.png)
-
+![image](https://user-images.githubusercontent.com/92962445/177813481-314b6fd0-b3c4-4ed7-9989-57fd4974c650.png)
 
 
 
