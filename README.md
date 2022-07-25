@@ -37,7 +37,7 @@ Atualmente estou aprendendo TypeScript
   
 <!--![image](https://user-images.githubusercontent.com/92962445/177813481-314b6fd0-b3c4-4ed7-9989-57fd4974c650.png)-->
 
-![image](https://user-images.githubusercontent.com/92962445/177813481-314b6fd0-b3c4-4ed7-9989-57fd4974c650.png)
+<!--![image](https://user-images.githubusercontent.com/92962445/177813481-314b6fd0-b3c4-4ed7-9989-57fd4974c650.png)-->
 <!--
 **6u7o/6u7o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
