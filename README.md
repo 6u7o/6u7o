@@ -20,10 +20,7 @@
 ![image](https://user-images.githubusercontent.com/92962445/177814103-5b91d1b1-2050-49c7-b718-df7ae4cbbc26.png)
 ![image](https://user-images.githubusercontent.com/92962445/177814561-8fb9e73b-d9ef-4119-aefd-df046c0d2de0.png)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=6u7o)](https://github.com/anuraghazra/github-readme-stats) 
 
-
-  
 
 ### **Me encontre em:** <h2>
 [![image](https://user-images.githubusercontent.com/92962445/177814656-3399e3f0-eea8-44e2-97d2-0fb29bea087e.png)](https://www.linkedin.com/in/augusto-pinheiro-762058237/)
